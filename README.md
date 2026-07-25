@@ -5,10 +5,9 @@
 
 🌐 **Live site:** https://otakugamerads.github.io/
 
-**2** pages:
+**1** page:
 
 - [instagram](https://otakugamerads.github.io/instagram/)
-- [publish-test](https://otakugamerads.github.io/publish-test/)
 
 ---
 
